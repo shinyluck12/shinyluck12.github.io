@@ -29,14 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: yeonwoo
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: yeonwoo
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - 
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: yeonwoo
+  url: https://github.com/shinyluck12/
+  email: shinyluck12@gmail.com
